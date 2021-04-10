@@ -1,0 +1,58 @@
+.font-family{
+    font-family: 'Skranji';
+}
+.custom-col {
+    background-color: #ba324f;
+    margin-left: 90px;
+    margin-top: -70px;
+    padding-left: 35px;
+}
+.p {
+ margin-right: 185px;
+}
+.gender{
+   margin-top: -20px;
+   
+}
+.sex{
+    margin-left: 8px;
+    margin-right: 10px;
+}
+.Female{
+    margin-left: 7px;
+}
+.Male{
+    margin-left: 10px;
+}
+.Custom{
+    margin-left: 13px;
+}
+.img-twice{
+   height: 500;
+   max-width: 500;
+}
+.img-palette{
+    width: 100%;
+  height: 100px;
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  margin-left: -185px;
+  margin-top: -285px;
+  
+}
+.img-font{
+    width: 90%;
+  height: 100px;
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  margin-left: -253px;
+  margin-top: -787px;
+  
+}
+.span{
+    margin-bottom: 20px;
+}
+.button{
+    width: 50%;
+    height: 6%;
+}
